@@ -15,5 +15,6 @@ int main()
     cout << "Enter the element of whom you want to find the sum " << endl;
     cin >> n;
     cout << "The sum is " << SumOfN(n) << endl;
+    cout<<"Have done some change in code "<<endl;
     return 0;
 }
