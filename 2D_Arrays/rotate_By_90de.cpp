@@ -31,7 +31,7 @@ void rotate(int arr[3][3], int n)
 int main()
 {
     int arr[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-    rotate(arr,3);
+    rotate(arr, 3);
 
     // Printing the array
     for (int i = 0; i < 3; i++)
